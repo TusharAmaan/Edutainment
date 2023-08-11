@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=httptusharamaan.github.io/Edutainment//sample-page/httptusharamaan.github.io/Edutainment/feed/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "httptusharamaan.github.io/Edutainment//sample-page/httptusharamaan.github.io/Edutainment/feed/";
+		</script>
+
+		<p>You are being redirected to <a href="httptusharamaan.github.io/Edutainment//sample-page/httptusharamaan.github.io/Edutainment/feed/">httptusharamaan.github.io/Edutainment//sample-page/httptusharamaan.github.io/Edutainment/feed/</a></p>
+	</body>
+</html>
